@@ -10,3 +10,10 @@ Slides for my DH course
 1. Open a terminal window from the folder where the `slides.html` and the `*.md` files are.
 2. `python3 -m http.server 8000`
 3. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`
+
+## Acknowledgements
+These slides are strongly based and inspired in other people's work, mainly (in alphabetical order):
+- Johanna Drucker
+- Simon Gabay
+- Adrien Jeanrenaud
+- and many others that I'll add
