@@ -85,11 +85,15 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 ## Funcionament de l'assignatura i avaluació
 
-- <span class="fragment">10%: sessions teòriques </span>
-- <span class="fragment">25%: sessions pràctiques</span>
-- <span class="fragment">25%: treball escrit</span>
-- <span class="fragment">15%: presentació</span>
-- <span class="fragment">25%: examen</span>
+<span class="fragment">- 10%: sessions teòriques </span>
+
+<span class="fragment">- 25%: sessions pràctiques</span>
+
+<span class="fragment">- 25%: treball escrit</span>
+
+<span class="fragment">- 15%: presentació</span>
+
+<span class="fragment">- 25%: examen</span>
 
 ----
 
