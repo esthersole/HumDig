@@ -32,9 +32,8 @@ Què és *informació*?
 
 <img src="https://pbs.twimg.com/media/EgZITpWU8AIyDO1.jpg" style="width: 40%;">
 
-<div class="centered">
-<p><span style="font-size: 0.25em;">[Font](https://x.com/HDrochon/status/1294260219850129420)</span></p>
-</div>
+<span style="font-size: 0.25em;">Font: https://x.com/HDrochon/status/1294260219850129420</span>
+
 
 ----
 

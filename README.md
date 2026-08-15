@@ -16,5 +16,6 @@ These slides are strongly based and inspired in other people's work, mainly (in 
 - Johanna Drucker
 - Simon Gabay
 - Adrien Jeanrenaud
+- Xingyu Long
 - Daniel Servos
 - and many others that I'll add
