@@ -1,7 +1,8 @@
 # Humanitats Digitals
+
 <div class="centered">
-	<p>Grau en Història de l'art i gestió del patrimoni artístic</p>
-	<p>Universitat de Lleida</p>
+	Grau en Història de l'art i gestió del patrimoni artístic
+	Universitat de Lleida
 </div>
 
 ---
@@ -63,7 +64,7 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 [![XKCD: Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)](https://xkcd.com/1838/)
 
-<span style="font-size: 0.25em;">Font: https://xkcd.com/1838/</span>
+<span style="font-size: 0.25em;">[Font: XKCD 1838](https://xkcd.com/1838)</span>
 
 ----
 
@@ -136,10 +137,8 @@ Una mica de tot: qüestionari tipus test, preguntes de resposta curta, supòsits
 <div class="centered">
 <img src="/media/HumDig00/questions.png" style="width: 65%;">
 
-<span style="font-size: 0.25em;">Font: https://www.xkcd.com/1256/</span>
+<span style="font-size: 0.25em;">[Font: XKCD 1256](https://www.xkcd.com/1256)</span>
 </div>
-
-<!-- [![XKCD: Questions](https://imgs.xkcd.com/comics/questions.png)](https://www.xkcd.com/1256/) -->
 
 ---
 
