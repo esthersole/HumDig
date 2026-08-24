@@ -1,0 +1,86 @@
+== Slides cheatsheet ==
+
+
+=== Portada ===
+
+# Títol diapositiva
+<div class="centered">
+	<p>subtítol centrat</p>
+</div>
+
+
+
+=== Apartat nivell 1 ===
+
+## Títol
+Text aliniat a l'esquerra per defecte
+
+
+
+=== Apartat nivell 2, 3, etc ===
+
+### Títol
+
+#### Títol
+
+etc.
+
+
+
+=== Estils de caràcter ===
+
+<span style="font-size: 0.75em;">Lletra una mica més petita</span>
+
+*cursiva*
+
+**negreta**
+
+
+
+=== Imatge i font com a peu de foto ===
+
+<img src="URL del fitxer" style="width: 40%;">
+
+<span style="font-size: 0.25em;">Font: Font text o URL</span>
+
+
+
+=== Centrar blocs de text i imatges ===
+
+<div class="centered">
+codi d'imatge i de peu de foto, en dues línies amb una línia en blanc entremig.
+</div>
+
+
+
+=== Revelar línies ===
+
+<span class="fragment">Text a revelar</span>
+
+
+
+=== Revelar blocs de text i imatges per línies ===
+
+<p class="fragment" data-fragment-index="1">
+Primera línia a revelar
+</p>
+
+Bloc amb 2 imatges i els seus peus a revelar en segon lloc
+<div class="fragment" data-fragment-index="2" style="display:flex; justify-content:center; gap:2em; align-items:flex-start; margin-top:1em;">
+	<div style="width:30%; text-align:center;">
+		<img src="URL del fitxer" style="width: 100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			Text del peu de foto ·
+			<a href="URL peu de foto" target="_blank" rel="noopener noreferrer"> Text de l'enllaç a la font
+		</div>
+	</div>
+	<div style="width:20%; text-align:center;">
+		<img src="URL del fitxer" style="width:100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			Text del peu de foto
+			<a href="URL peu de foto" target="_blank" rel="noopener noreferrer"> Text de l'enllaç a la font
+			</a>
+		</div>
+	</div>
+
+</div>
