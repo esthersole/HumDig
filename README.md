@@ -4,8 +4,13 @@ Slides for my DH course
 ## What's in here
 ```
 .
-├── media                   # with a sub-folder for each deck of slides, with all the non-online media displayed in them
-├── HumDig_XX.md            # an `*.md` file for each deck of slides
+├── media                   # all the non-online media displayed on the slides
+├──── HumDig00              # one subforlder for each deck of slides
+├──── HumDig01
+├──── etc
+├── HumDig_00.md            # an `*.md` file for each deck of slides
+├── HumDig_01.md
+├── HumDig_XX.md
 ├── LICENSE
 ├── README.md
 ├── show-slides.sh          # a small script to ease firing up the decks of slides on a browser
