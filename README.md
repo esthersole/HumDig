@@ -15,18 +15,21 @@ Slides for my DH course
 ├── README.md
 ├── show-slides.sh          # a small script to ease firing up the decks of slides on a browser
 ├── slides-cheatsheet.txt   # slides layout cheatsheet. Copy-paste ready
-└── slides.html             # stylesheet to make the slides look decent without much (?) overcomplicating the code
+└── slides.html             # stylesheet to make the slides look decent
 ```
 
-## How-to (step by step)
-1. Open a terminal window from the folder where `slides.html` and `*.md` files are.
-2. `python3 -m http.server 8000`
-3. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`
+## How-to
+### Step by step
+1. Open a terminal window from the folder where `slides.html` and `*.md` files are
+2. Type `python3 -m http.server 8000`
+3. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display(`HumDig_00.md`, for instance)
 
-## How-to (quick)
-1. Open a terminal window from the folder where `slides.html`, `*.md`, and `show-slides.sh` files are.
-2. run `./show-slides.sh FILENAME.md
-3. enjoy. The server will shut down when the browser tab is closed.
+### With the bash script
+1. Open a terminal window from the folder where `slides.html`, `*.md`, and `show-slides.sh` files are
+2. Run `./show-slides.sh FILENAME.md`
+3. Enjoy. You can open several `.md` files from the same terminal, but don't forget to shut down the server when done.
+
+The server can be shut running `ps aux | grep http.server` on the terminal window, and killing the process named `python3 -m http.server 8000` with th command `kill` and the process ID.
 
 ## Acknowledgements
 These slides are strongly based and inspired in other people's work, mainly (in alphabetical order):
