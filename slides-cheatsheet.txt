@@ -41,7 +41,7 @@ etc.
 
 <img src="URL del fitxer" style="width: 40%;">
 
-<span style="font-size: 0.25em;">Font: Font text o URL</span>
+<span style="font-size: 0.25em;">Font: [Text a mostrar](URL de la font)</span>
 
 
 
@@ -70,15 +70,22 @@ Bloc amb 2 imatges i els seus peus a revelar en segon lloc
 	<div style="width:30%; text-align:center;">
 		<img src="URL del fitxer" style="width: 100%;">
 		<div style="font-size:0.25em; margin-top:0.5em;">
-			Text del peu de foto ·
-			<a href="URL peu de foto" target="_blank" rel="noopener noreferrer"> Text de l'enllaç a la font
+			Peu de foto
+			<a href="URL peu de foto"
+			target="_blank"
+			rel="noopener noreferrer">
+			Text de l'enllaç al peu de foto
+            </a>
 		</div>
 	</div>
 	<div style="width:20%; text-align:center;">
 		<img src="URL del fitxer" style="width:100%;">
 		<div style="font-size:0.25em; margin-top:0.5em;">
-			Text del peu de foto
-			<a href="URL peu de foto" target="_blank" rel="noopener noreferrer"> Text de l'enllaç a la font
+			Peu de foto
+			<a href="URL peu de foto"
+			target="_blank"
+			rel="noopener noreferrer">
+			Text de l'enllaç al peu de foto
 			</a>
 		</div>
 	</div>
