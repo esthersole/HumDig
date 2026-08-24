@@ -8,7 +8,7 @@ Slides for my DH course
 ├──── HumDig00              # one subforlder for each deck of slides
 ├──── HumDig01
 ├──── etc
-├── HumDig_00.md            # an `*.md` file for each deck of slides
+├── HumDig_00.md            # an *.md file for each deck of slides
 ├── HumDig_01.md
 ├── etc
 ├── LICENSE
