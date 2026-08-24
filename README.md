@@ -10,7 +10,7 @@ Slides for my DH course
 ├──── etc
 ├── HumDig_00.md            # an `*.md` file for each deck of slides
 ├── HumDig_01.md
-├── HumDig_XX.md
+├── etc
 ├── LICENSE
 ├── README.md
 ├── show-slides.sh          # a small script to ease firing up the decks of slides on a browser
