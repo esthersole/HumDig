@@ -19,6 +19,8 @@ Slides for my DH course
 ```
 
 ## How-to
+You can open any markdown file on a new tab. However, if you'd rather run the decks of slides on a browser, follow the instructions below.
+
 ### Step by step
 1. Open a terminal window from the folder where `slides.html` and `*.md` files are
 2. Type `python3 -m http.server 8000`
