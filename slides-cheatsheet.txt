@@ -44,6 +44,34 @@ etc.
 <span style="font-size: 0.25em;">Font: [Text a mostrar](URL de la font)</span>
 
 
+=== Bloc amb dues imatges i el seu peu de foto, de costat ===
+
+<div style="display:flex; justify-content:center; gap:2em; align-items:flex-start; margin-top:1em;">
+<div style="width:50%; text-align:center;">
+		<img src="URL de la imatge" style="width: 100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			Text del peu
+			<a href="https://commons.wikimedia.org/wiki/File:Early_US_Census_Machines_1954_08004.jpg"
+			target="_blank"
+			rel="noopener noreferrer">
+			Text del peu amb enllaç
+            </a>
+		</div>
+	</div>
+	<div style="width:50%; text-align:center;">
+		<img src="URL de la imatge" style="width:100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			Text del peu
+			<a href="https://commons.wikimedia.org/wiki/File:Punched_card_program_deck.agr.jpg"
+			target="_blank"
+			rel="noopener noreferrer">
+			Text del peu amb enllaç
+			</a>
+		</div>
+	</div>
+</div>
+
+
 
 === Centrar blocs de text i imatges ===
 

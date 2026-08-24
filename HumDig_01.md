@@ -146,20 +146,66 @@ Tot va començar amb Ada Lovelace i els telers de Jacquard
 ----
 
 #### El camí fins aquí (2)
-Els primers ordinadors funcionaven amb targetes perforades.
+Els primers ordinadors (del 1800 a mitjan segle XX) funcionaven amb targetes perforades.
 
+<div style="display:flex; justify-content:center; gap:2em; align-items:flex-start; margin-top:1em;">
+<div style="width:50%; text-align:center;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Early_US_Census_Machines_1954_08004.jpg" style="width: 100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			CC0 US Census Bureau · 
+			<a href="https://commons.wikimedia.org/wiki/File:Early_US_Census_Machines_1954_08004.jpg"
+			target="_blank"
+			rel="noopener noreferrer">
+			Wikimedia Commons
+            </a>
+		</div>
+	</div>
+	<div style="width:55%; text-align:center;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Punched_card_program_deck.agr.jpg" style="width:100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			CC BY SA ArnoldReinhold · 
+			<a href="https://commons.wikimedia.org/wiki/File:Punched_card_program_deck.agr.jpg"
+			target="_blank"
+			rel="noopener noreferrer">
+			Wikimedia Commons
+			</a>
+		</div>
+	</div>
+</div>
+
+<span style="font-size: 0.3em;">Més informació sobre targetes perforades i ordinadors [aquí](https://youtu.be/q456Rw3sq-M?si=72ZkNiChkbN7cYZp)</span>
 
 ----
 
 #### El camí fins aquí (3)
-Després ja van arribar les vàlvules de buit...
+Als anys 40 van arribar les vàlvules de buit...
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Elektronenroehren-auswahl.jpg" style="width: 100%;">
+
+<span style="font-size: 0.25em;">CC BY SA Stefan Rielpl · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elektronenroehren-auswahl.jpg)</span>
 
 ----
 
 #### El camí fins aquí (4)
-... i l'era dels transistors
+... i als anys 50 s'inicià l'era dels transistors
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Transistor-photo.JPG" style="width: 90%;">
+
+<span style="font-size: 0.25em;">CC BY SA Mister rf · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elektronenroehren-auswahl.jpg)</span>
 
 ----
 
+#### El camí fins aquí (4)
+Amb diversos transistors es pot fer un circuit integrat (o xip), que pot executar diverses (moltes!) operacions en un instant.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Intel_SB80486DX2-50.jpg" style="width: 55%;">
+
+<span style="font-size: 0.25em;">CC BY SA Mister rf · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intel_SB80486DX2-50.jpg)</span>
+
+---
+
 ### Com funciona Internet?
+
+----
+
+#### Meet Tim Berners-Lee
