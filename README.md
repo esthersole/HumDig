@@ -24,7 +24,7 @@ You can open any markdown file on a new tab. However, if you'd rather run the de
 ### Step by step
 1. Open a terminal window from the folder where `slides.html` and `*.md` files are
 2. Type `python3 -m http.server 8000`
-3. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display(`HumDig_00.md`, for instance)
+3. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance)
 
 ### With the bash script
 1. Open a terminal window from the folder where `slides.html`, `*.md`, and `show-slides.sh` files are
