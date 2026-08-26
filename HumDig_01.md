@@ -218,6 +218,54 @@ Amb diversos transistors es pot fer un circuit integrat (o xip), que pot executa
 
 <span style="display:block; font-size: 0.25em;">Més info: [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)</span>
 
+---
+
+### Intel·ligència artificial
+Què entenem per intel·ligència artificial?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" style="width: 55%;">
+
+<span style="display:block; font-size: 0.25em;">CC0 JPxG · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png)</span>
+
 ----
 
-### Intel·ligència artificial i *machine learning*
+#### Intel·ligència artificial (1)
+<span class="fragment">Segons la seva "capacitat" de fer:</span>
+
+<span class="fragment">- IA *feble*</span>
+
+<span class="fragment">- IA general (*AIG*)</span>
+
+<span class="fragment">- Superintel·ligència artificial 🫠</span>
+
+----
+
+#### Intel·ligència artificial (2)
+<span class="fragment">Segons el paradigma d'aprenentatge (de *machine learning*):</span>
+
+<span class="fragment">- Aprenentatge supervisat</span>
+
+<span class="fragment">- Aprenentatge no supervisat</span>
+
+<span class="fragment">- Aprenentatge per reforç</span>
+
+<div class="fragment">
+	<img src="https://media.geeksforgeeks.org/wp-content/uploads/20251212170723041708/types_of_machine_learning.webp" style="width: 80%;">
+	<div style="font-size: 0.25em;">Font:
+		<a href="https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/"
+		target="_blank"
+		rel="noopener noreferrer">
+		Geeks for geeks
+	</div>
+
+----
+
+#### I el *deep learning*, els grans models de llenguatge (LLM) i la intel·ligència artificial generativa?
+
+----
+
+#### 
+
+----
+
+#### 
