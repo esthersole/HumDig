@@ -219,3 +219,5 @@ Amb diversos transistors es pot fer un circuit integrat (o xip), que pot executa
 <span style="display:block; font-size: 0.25em;">Més info: [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)</span>
 
 ----
+
+### Intel·ligència artificial i *machine learning*
