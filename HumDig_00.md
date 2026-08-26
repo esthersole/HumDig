@@ -18,7 +18,7 @@
 ## Humanitats digitals
 Què us suggereix el terme "Humanitats digitals"?
 
-URL cloudtagger
+[CV](cv.udl.cat) > Núvol de paraules
 
 ----
 
