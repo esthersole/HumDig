@@ -7,11 +7,11 @@
 
 ---
 
-# Quant a
+## Quant a
 
 ----
 
-# Sobre aquesta assignatura
+## Sobre aquesta assignatura
 
 ---
 
@@ -64,7 +64,7 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 [![XKCD: Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)](https://xkcd.com/1838/)
 
-<span style="font-size: 0.25em;">[Font: XKCD 1838](https://xkcd.com/1838)</span>
+<span style="font-size: 0.25em;">Font: [XKCD 1838](https://xkcd.com/1838)</span>
 
 ----
 
@@ -80,7 +80,7 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 <img src="/media/HumDig00/Unsupervised.jpg" style="width: 35%;">
 
-<span style="font-size: 0.25em;">[Font: MOMA](https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=883f5b4695526ff5)</span>
+<span style="font-size: 0.25em;">Font: [MOMA](https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=883f5b4695526ff5)</span>
 
 ---
 
@@ -101,7 +101,7 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 ### Sessions teòriques (10%)
 Assistència no obligatòria
 
-Abandó *virtual* i abandó *físic*
+Abandó *virtual* = abandó *físic*
 
 ----
 
@@ -137,7 +137,7 @@ Una mica de tot: qüestionari tipus test, preguntes de resposta curta, supòsits
 <div class="centered">
 <img src="/media/HumDig00/questions.png" style="width: 65%;">
 
-<span style="font-size: 0.25em;">[Font: XKCD 1256](https://www.xkcd.com/1256)</span>
+<span style="font-size: 0.25em;">Font: [XKCD 1256](https://www.xkcd.com/1256)</span>
 </div>
 
 ---

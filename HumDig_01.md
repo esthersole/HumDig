@@ -211,3 +211,11 @@ Amb diversos transistors es pot fer un circuit integrat (o xip), que pot executa
 ----
 
 #### Meet Tim Berners-Lee
+
+<img src="https://lenews.ch/wp-content/uploads/2019/03/Tim-Berners-Lee-%C2%A9-CERN-1994.jpg" style="width: 60%;">
+
+<span style="display:block; font-size: 0.25em;">© CERN</span>
+
+<span style="display:block; font-size: 0.25em;">Més info: [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)</span>
+
+----
