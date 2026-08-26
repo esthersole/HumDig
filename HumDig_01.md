@@ -200,8 +200,9 @@ Amb diversos transistors es pot fer un circuit integrat (o xip), que pot executa
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Intel_SB80486DX2-50.jpg" style="width: 55%;">
 
-<span style="font-size: 0.25em;">CC BY SA Mister rf · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intel_SB80486DX2-50.jpg)</span>
-<span style="font-size: 0.25em;">Curiositat: [Llei de Moore](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf); Llei de Moore a la [Viquipèdia](https://ca.wikipedia.org/wiki/Llei_de_Moore)</span>
+<span style="display:block; font-size: 0.25em;">CC BY SA Mister rf · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intel_SB80486DX2-50.jpg)</span>
+
+<span style="display:block; font-size: 0.25em;">Curiositat: [Llei de Moore](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf); Llei de Moore a la [Viquipèdia](https://ca.wikipedia.org/wiki/Llei_de_Moore)</span>
 
 ---
 

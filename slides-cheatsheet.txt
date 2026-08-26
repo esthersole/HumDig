@@ -44,6 +44,15 @@ etc.
 <span style="font-size: 0.25em;">Font: [Text a mostrar](URL de la font)</span>
 
 
+==== Imatge i font com a peu de foto + comentari a sota del peu de foto ===
+
+<img src="URL del fitxer" style="width: 40%;">
+
+<span style="display:block; font-size: 0.25em;">Text peu de foto · [Text del link](URL)</span>
+
+<span style="display:block; font-size: 0.25em;">Text del comentari</span>
+
+
 === Bloc amb dues imatges i el seu peu de foto, de costat ===
 
 <div style="display:flex; justify-content:center; gap:2em; align-items:flex-start; margin-top:1em;">
