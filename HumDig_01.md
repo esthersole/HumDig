@@ -141,7 +141,7 @@ Tot va començar amb Ada Lovelace i els telers de Jacquard
 	</div>
 </div>
 
-<span style="font-size: 0.3em;">Més informació sobre com funciona un teler Jacquard [aquí](https://youtu.be/K6NgMNvK52A?si=5mYH7Y4VJGExryIo) i [aquí](https://youtu.be/MQzpLLhN0fY?si=YO5hO2mCHcvLSxyh).</span>
+<span class="fragment" data-fragment-index="3" style="font-size: 0.3em;">Més informació sobre com funciona un teler Jacquard [aquí](https://youtu.be/K6NgMNvK52A?si=5mYH7Y4VJGExryIo) i [aquí](https://youtu.be/MQzpLLhN0fY?si=YO5hO2mCHcvLSxyh).</span>
 
 ----
 
@@ -264,8 +264,64 @@ Què entenem per intel·ligència artificial?
 
 ----
 
-#### 
+##### *Deep learning*
+<p class="fragment" data-fragment-index="1">És un altre paradigma d'entrenament. De xarxes neuronals artificials, sobretot.
+</p>
+
+<div class="fragment" data-fragment-index="2" style="display:flex; justify-content:center; gap:2em; align-items:flex-start; margin-top:1em;">
+	<div style="width:80%; text-align:center; background-color: white; padding: 0.5em;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Neuron3.png" style="width: 100%;">
+		<div style="font-size:0.25em; margin-top:0.5em; color: darkgrey;">
+			CC BY SA Egm4313.s12 · 
+			<a href="https://commons.wikimedia.org/wiki/File:Neuron3.png"
+			target="_blank"
+			rel="noopener noreferrer">
+			Wikimedia Commons
+            </a>
+		</div>
+	</div>
+	<div style="width:100%; text-align:center;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Neural_Network.svg" style="width:100%;">
+		<div style="font-size:0.25em; margin-top:0.5em;">
+			CC0 QuantuMechaniX8 · 
+			<a href="https://en.wikipedia.org/wiki/File:Neural_Network.svg"
+			target="_blank"
+			rel="noopener noreferrer">
+			Wikimedia Commons
+			</a>
+		</div>
+	</div>
+</div>
 
 ----
 
-#### 
+##### *Deep learning*: un exemple
+
+<img src="/media/HumDig01/artificial-neural-network.png" style="width: 100%;">
+
+<span style="font-size: 0.25em;">PD Mikael Häggström, M.D. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Simplified_neural_network_example.svg)</span>
+
+----
+
+##### *Deep learning* vs. *machine learning*
+
+<img src="/media/HumDig01/machine-deep.png" style="width: 100%;">
+
+<span style="font-size: 0.25em;">CC BY Simon Gabay</span>
+
+----
+
+##### Els grans models de llenguatge (o LLM)
+*Large Language Models...*
+
+<p class="fragment" data-fragment-index="1">- un tipus de xarxa neuronal (transformers)</p>
+
+<p class="fragment" data-fragment-index="2">- ... o lloros estocàstics 🦜 (<a href="https://dl.acm.org/doi/10.1145/3442188.3445922" target="_blank" rel="noopener noreferrer">Bender, Gebru et al, 2021</a>)</p>
+
+<span class="fragment" data-fragment-index="3" style="font-size: 0.3em;">Interessant: [Test de Turing](https://youtu.be/3wLqsRLvV-c?si=tXSlYTwD7f6SAM30) i [experiment de l'habitació xinesa](https://youtu.be/D0MD4sRHj1M?si=N7KifVY4rIdXtMdi).</span>
+
+----
+
+##### Intel·ligència artificial generativa
+
+----
