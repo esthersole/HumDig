@@ -258,13 +258,13 @@ Què entenem per intel·ligència artificial?
 		Geeks for geeks
 	</div>
 
+---
+
+### I el *deep learning*, els grans models de llenguatge (LLM) i la intel·ligència artificial generativa?
+
 ----
 
-#### I el *deep learning*, els grans models de llenguatge (LLM) i la intel·ligència artificial generativa?
-
-----
-
-##### *Deep learning*
+#### *Deep learning*
 <p class="fragment" data-fragment-index="1">És un altre paradigma d'entrenament. De xarxes neuronals artificials, sobretot.
 </p>
 
@@ -295,7 +295,7 @@ Què entenem per intel·ligència artificial?
 
 ----
 
-##### *Deep learning*: un exemple
+#### *Deep learning*: un exemple
 
 <img src="/media/HumDig01/artificial-neural-network.png" style="width: 100%;">
 
@@ -303,7 +303,7 @@ Què entenem per intel·ligència artificial?
 
 ----
 
-##### *Deep learning* vs. *machine learning*
+#### *Deep learning* vs. *machine learning*
 
 <img src="/media/HumDig01/machine-deep.png" style="width: 100%;">
 
@@ -311,7 +311,7 @@ Què entenem per intel·ligència artificial?
 
 ----
 
-##### Els grans models de llenguatge (o LLM)
+#### Els grans models de llenguatge (o LLM)
 *Large Language Models...*
 
 <p class="fragment" data-fragment-index="1">- un tipus de xarxa neuronal (transformers)</p>
@@ -322,6 +322,25 @@ Què entenem per intel·ligència artificial?
 
 ----
 
-##### Intel·ligència artificial generativa
+#### Intel·ligència artificial generativa
 
-----
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Discriminative_vs_Generative_Neural_Networks.png" style="width: 60%;">
+
+<span style="display:block; font-size: 0.25em;">CC0 Lwneal · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Discriminative_vs_Generative_Neural_Networks.png)</span>
+
+---
+
+### Un gran poder comporta una gran responsabilitat
+<p class="fragment" data-fragment-index="1">Quins riscos pot suposar l'ús de la intel·ligència artificial?</p>
+
+<div class="fragment" data-fragment-index="2" style="text-align: left;">
+	<a href="https://cv.udl.cat" target="_blank" rel="noopener noreferrer">CV</a>
+	> Núvol de paraules
+	</div>
+
+<div class="fragment" data-fragment-index="3" style="text-align: left;">
+	<a href="https://cv.udl.cat" target="_blank" rel="noopener noreferrer">CV</a>
+	> Activitat > Pràctica 1
+	</div>
+
+<span class="fragment" data-fragment-index="3" style="font-size: 0.3em;">Recurs: [Artificial AI (AI): Ethical Concerns (Franklin University)](https://guides.franklin.edu/ai/ethics)</span>
