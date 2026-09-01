@@ -18,7 +18,7 @@
 ## Humanitats digitals
 Què us suggereix el terme "Humanitats digitals"?
 
-[CV](cv.udl.cat) > Núvol de paraules
+[CV](https://cv.udl.cat) > Núvol de paraules
 
 ----
 
