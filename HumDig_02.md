@@ -5,3 +5,11 @@
 
 ---
 
+## Què són les humanitats digitals?
+Què us han suggerit les lectures?
+
+----
+
+### Humanitats digitals
+<p class="fragment" data-fragment-index="1">- Una intersecció (moltes, de fet)</p>
+<p class="fragment" data-fragment-index="1">- Mètodes <em>computacionals</em>, materials <em>humanístics</em></p>
