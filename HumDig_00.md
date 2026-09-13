@@ -154,4 +154,25 @@ Una mica de tot: qüestionari tipus test, preguntes de resposta curta, supòsits
 ----
 
 ## Bola extra 2
-Pel proper dia de classe:
+Pel **28 de setembre**:
+1. Cal haver llegit un d'aquests textos:
+
+<div style="font-size: 0.5em; margin-bottom: 1em;">
+
+- Antonio Rojas Castro, "Las Humanidades Digitales: principios, valores y prácticas", *Janus* 2 (2013): https://doi.org/10.17979/janus.2013.0.02.10285
+- (el capítol 1) Joseba Moreno, *Contextos y prácticas en las humanidades digitales*, Masters Thesis, University of Nebraska-Lincoln (2012): https://digitalcommons.unl.edu/modlangdiss/14
+- Tara Andrews, "Introduction", *Digital Humanities* (2016): https://livingbooksabouthistory.ch/en/book/digital-humanities#chapter-intro
+- Rafael C. Alvarado, "Blog Post: The Digital Humanities Situation", *Debates in the Digital Humanities* (2012): https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c513af64-8f99-4e02-9869-babc1cecc451#p1b1
+
+</div>
+
+2. I un d'aquests altres:
+
+<div style="font-size: 0.5em;">
+
+- Anna Bentkowska-Kafel, "Debating Digital Art History", *International Journal for Digital Art History* 1 (2015): https://doi.org/10.11588/dah.2015.1.21634
+- Claire Bishop "Against Digital Art History", *International Journal for Digital Art History* 3 (2018): https://doi.org/10.11588/dah.2018.3.49915
+- Paul B. Jaskot, "Digital Art History as the Social History of Art: Towards the Disciplinary Relevance of Digital Methods", *Visual Resources* 35:1-2 (2019), p. 21-33: https://doi.org/10.1080/01973762.2019.1553651
+
+</div>
+
