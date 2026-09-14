@@ -35,7 +35,6 @@ Què us suggereix el terme "Humanitats digitals"?
 - [Mapping the Republic of Letters (Stanford)](http://republicofletters.stanford.edu/)
 - [Visual contagions (UNIGE)](https://youtu.be/6Vs7TZNqZDc)
 - [The Museum Gaze (Univie)](https://crea.univie.ac.at/projects/the-museum-gaze)
-- [ArtVis (TU Wien & Univie)](https://artvis.cvast.tuwien.ac.at/)
 
 ---
 
@@ -164,7 +163,7 @@ Pel **28 de setembre**:
 - Tara Andrews, "Introduction", *Digital Humanities* (2016): https://livingbooksabouthistory.ch/en/book/digital-humanities#chapter-intro
 - Rafael C. Alvarado, "Blog Post: The Digital Humanities Situation", *Debates in the Digital Humanities* (2012): https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c513af64-8f99-4e02-9869-babc1cecc451#p1b1
 
-</div>
+----
 
 2. I un d'aquests altres:
 
