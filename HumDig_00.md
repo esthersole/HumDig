@@ -9,11 +9,11 @@
 
 ## Quant a
 
-----
+---
 
 ## Sobre aquesta assignatura
 
----
+----
 
 ## Humanitats digitals
 Què us suggereix el terme "Humanitats digitals"?
@@ -156,7 +156,7 @@ Una mica de tot: qüestionari tipus test, preguntes de resposta curta, supòsits
 Pel **28 de setembre**:
 1. Cal haver llegit un d'aquests textos:
 
-<div style="font-size: 0.5em; margin-bottom: 1em;">
+<div style="font-size: 0.75em; margin-bottom: 1em;">
 
 - Antonio Rojas Castro, "Las Humanidades Digitales: principios, valores y prácticas", *Janus* 2 (2013): https://doi.org/10.17979/janus.2013.0.02.10285
 - (el capítol 1) Joseba Moreno, *Contextos y prácticas en las humanidades digitales*, Masters Thesis, University of Nebraska-Lincoln (2012): https://digitalcommons.unl.edu/modlangdiss/14
@@ -167,11 +167,13 @@ Pel **28 de setembre**:
 
 2. I un d'aquests altres:
 
-<div style="font-size: 0.5em;">
+<div style="font-size: 0.75em;">
 
 - Anna Bentkowska-Kafel, "Debating Digital Art History", *International Journal for Digital Art History* 1 (2015): https://doi.org/10.11588/dah.2015.1.21634
+- Johanna Drucker, "Is there a 'Digital' Art History?", *Visual Resources* 29:1-2, p. 5-13: https://doi.org/10.1080/01973762.2013.761106
 - Claire Bishop "Against Digital Art History", *International Journal for Digital Art History* 3 (2018): https://doi.org/10.11588/dah.2018.3.49915
 - Paul B. Jaskot, "Digital Art History as the Social History of Art: Towards the Disciplinary Relevance of Digital Methods", *Visual Resources* 35:1-2 (2019), p. 21-33: https://doi.org/10.1080/01973762.2019.1553651
+- Georg Schelberg, "Art History in the World of Digital Humanities. Aspects of a Difficult Relationship", *Kunsttexte - Renaissance* 4 (2017): https://doi.org/10.18452/18694
 
 </div>
 
