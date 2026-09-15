@@ -47,16 +47,15 @@ Then:
 #### With the PowerShell script
 1. Right click the folder where the `slides.html` and `*.md` files are.
 2. Select `Open with Terminal`. A Windows PowerShell screen will pop up.
-3. Type `.\show-slides.ps1 FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance). Notice there's a space between the `./` command and the filename.
-</br>
-    If you get an error message ("running scripts is disabled on this system"):
-    - Open PowerShell as Administrator once and run: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
-    - Answer `Y` to confirm.
-    - repeat step 3
-
+3. Type `.\show-slides.ps1 FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance). Notice there's a space between the `./` command and the filename. If you get an error message, check the following ection.
 4. Enjoy. You can open several `.md` files from the same terminal, but don't forget to shut down the server when done.
 
 The server can be shut running `Stop-Process -Id (Get-NetTCPConnection -LocalPort 8000).OwningProcess` on the same PowerShell window.
+
+##### If you get an error message ("running scripts is disabled on this system")
+- Open PowerShell as Administrator once and run: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+- Answer `Y` to confirm.
+- repeat the steps from the previous section
 
 
 ## Acknowledgements
