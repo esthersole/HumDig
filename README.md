@@ -40,9 +40,11 @@ First you should have `Python` installed. If you don't, get it at https://www.py
 
 Then:
 1. Open the folder in File Explorer and click on the address bar at the top of the window.
-2. type `cmd`. Press enter. A terminal window will open.
+2. type `cmd`. Press enter. A command prompt window will open.
 3. Type `python -m http.server 8000`; press `Enter`.
 4. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance)
+
+When done, go back to the command prompt window and shut the server by typing `Ctrl + C` and then confirming with `Y`.
 
 #### With the PowerShell script
 1. Right click the folder where the `slides.html` and `*.md` files are.
