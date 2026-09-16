@@ -13,7 +13,8 @@ Slides for my DH course
 ├── etc.md
 ├── LICENSE
 ├── README.md
-├── show-slides.sh          # a small script to ease firing up the decks of slides on a browser
+├── show-slides.sh          # a small script to ease firing up the decks of slides on a browser (Linux)
+|── show-slides.ps1         # a small script to ease firing up the decks of slides on a browser (Windows)
 ├── slides-cheatsheet.txt   # slides layout cheatsheet. Copy-paste ready
 └── slides.html             # stylesheet to make the slides look decent
 ```
@@ -36,29 +37,23 @@ The server can be shut running `ps aux | grep http.server` on the terminal windo
 
 ### On a Windows computer
 #### Step by step
-First you should have `Python` installed. If you don't, get it at https://www.python.org/downloads/ and during installation, check a box stating `Add Python to PATH`.
+First you should have `Python` installed. If you don't, get it at https://www.python.org/downloads/ and during installation, check a box or answer `Y` when prompted to add Python to `PATH`.
 
 Then:
 1. Open the folder in File Explorer and click on the address bar at the top of the window.
 2. type `cmd`. Press enter. A command prompt window will open.
 3. Type `python -m http.server 8000`; press `Enter`.
-4. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance)
+4. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance) and enjoy.
 
-When done, go back to the command prompt window and shut the server by typing `Ctrl + C` and then confirming with `Y`.
+When done, go back to the command prompt window and shut the server by typing `Ctrl + C`. If prompted, confirm with `Y`.
 
 #### With the PowerShell script
 1. Right click the folder where the `slides.html` and `*.md` files are.
 2. Select `Open with Terminal`. A Windows PowerShell screen will pop up.
-3. Type `.\show-slides.ps1 FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance). Notice there's a space between the `./` command and the filename. If you get an error message, check the following section.
-4. Enjoy. You can open several `.md` files from the same terminal, but don't forget to shut down the server when done.
+3. Type `powershell.exe -ExecutionPolicy Bypass -File .\show-slides.ps1 FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance).
+4. Enjoy.
 
-The server can be shut running `Stop-Process -Id (Get-NetTCPConnection -LocalPort 8000).OwningProcess` on the same PowerShell window.
-
-##### If you get an error message ("running scripts is disabled on this system")
-- Open PowerShell as Administrator once and run: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
-- Answer `Y` to confirm.
-- repeat the steps from the previous section
-
+When done, shut down the server running `Stop-Process -Id (Get-NetTCPConnection -LocalPort 8000).OwningProcess` on the same PowerShell window.
 
 ## Acknowledgements
 These slides are strongly based and inspired in other people's work, mainly (in alphabetical order):
