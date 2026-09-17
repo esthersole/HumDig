@@ -71,7 +71,7 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 [![Tank at work](https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2015/04/matrix-operator.jpg)](https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2015/04/matrix-operator.jpg)
 
-<span style="font-size: 0.25em;">[Font](https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2015/04/matrix-operator.jpg)</span>
+<span style="font-size: 0.25em;">Font: [Matrix Operator](https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2015/04/matrix-operator.jpg)</span>
 
 ----
 
@@ -79,7 +79,11 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 <img src="/media/HumDig00/Unsupervised.jpg" style="width: 35%;">
 
-<span style="font-size: 0.25em;">Font: [MOMA](https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=883f5b4695526ff5)</span>
+<div style="font-size: 0.25em;">
+[Refik Anadol: Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
+[Ben Davis, "An Extremely Intelligent Lava Lamp: Refik Anadol’s A.I. Art Extravaganza at MoMA Is Fun, Just Don’t Think About It Too Hard"](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329)
+Imatge: [MOMA](https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=883f5b4695526ff5)
+</div>
 
 ---
 
