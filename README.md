@@ -39,7 +39,7 @@ The server can be shut running `ps aux | grep http.server` on the terminal windo
 
 ### On a Windows computer
 #### Step by step
-First you should have `Python` installed. If you don't, get it at https://www.python.org/downloads/. During installation, check a box stating something similar to `Add Python to PATH`.
+First you should have `Python` installed. If you don't, get it at https://www.python.org/downloads/. During installation, check a box or answer `Y`when prompted to something similar to `Add Python to PATH`.
 
 Then:
 1. Open the folder in File Explorer and click on the address bar at the top of the window.
