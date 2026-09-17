@@ -13,7 +13,7 @@ Slides for my DH course
 ├── etc.md
 ├── LICENSE
 ├── README.md
-├── show-slides.sh          # a script to ease firing up the decks of slides on a browser (Linux)
+├── show-slides.sh          # script to ease firing up the decks of slides on a browser (Linux)
 |── show-slides.ps1         # same as above, but for Windows computers
 ├── slides-cheatsheet.txt   # slides layout cheatsheet. Copy-paste ready
 └── slides.html             # stylesheet to make the slides look decent
