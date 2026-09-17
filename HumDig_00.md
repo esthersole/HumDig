@@ -79,10 +79,17 @@ Combinarem teoria i petits exercicis pràctics. Cal disposar d'un ordinador on s
 
 <img src="/media/HumDig00/Unsupervised.jpg" style="width: 35%;">
 
-<div style="font-size: 0.25em;">
-[Refik Anadol: Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
-[Ben Davis, "An Extremely Intelligent Lava Lamp: Refik Anadol’s A.I. Art Extravaganza at MoMA Is Fun, Just Don’t Think About It Too Hard"](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329)
-Imatge: [MOMA](https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=883f5b4695526ff5)
+<div style="font-size: 0.25em; text-align:left; width:100%; margin-top:1em:">
+<a href="https://www.moma.org/calendar/exhibitions/5535" target="_blank">
+Refik Anadol: Unsupervised
+</a><br>
+<a href="https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329" target="_blank">
+Ben Davis, "An Extremely Intelligent Lava Lamp: Refik Anadol’s A.I. Art Extravaganza at MoMA Is Fun, Just Don’t Think About It Too Hard"
+</a><br>
+Imatge:
+<a href="https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=883f5b4695526ff5" target="_blank">
+MOMA
+</a>
 </div>
 
 ---
