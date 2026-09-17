@@ -28,6 +28,8 @@ You can open any markdown file on a new tab. However, if you'd rather run the de
 2. Type `python3 -m http.server 8000`; press `Enter`.
 3. Point a new browser tab to `http://localhost:8000/slides.html?slides=FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance).
 
+When done, close the tab and stop the process by returning to the terminal window and pressing `Ctrl` + `C`. You may close the terminal window then.
+
 #### With the bash script
 1. Open a terminal window from the folder where `slides.html`, `*.md`, and `show-slides.sh` files are.
 2. Run `./show-slides.sh FILENAME.md`; replacing `FILENAME.md` with the filename of the deck of slides to display (`HumDig_00.md`, for instance). Notice there's a space between the `./` command and the filename.
@@ -37,7 +39,7 @@ The server can be shut running `ps aux | grep http.server` on the terminal windo
 
 ### On a Windows computer
 #### Step by step
-First you should have `Python` installed. If you don't, get it at https://www.python.org/downloads/ and during installation, check a box or answer `Y` when prompted to add Python to `PATH`.
+First you should have `Python` installed. If you don't, get it at https://www.python.org/downloads/. During installation, check a box stating something similar to `Add Python to PATH`.
 
 Then:
 1. Open the folder in File Explorer and click on the address bar at the top of the window.
