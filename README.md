@@ -59,6 +59,7 @@ When done, shut down the server running `Stop-Process -Id (Get-NetTCPConnection 
 
 ## Acknowledgements
 These slides are strongly based and inspired in other people's work, mainly (in alphabetical order):
+- Nicola Carboni
 - Johanna Drucker
 - Simon Gabay
 - Adrien Jeanrenaud
