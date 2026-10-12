@@ -263,11 +263,19 @@ Per exemple: una pintura, o un llibre
 
 ----
 
+### L'objecte no és la seva foto, ni el seu registre a una base de dades
+
+<img src="/media/HumDig03/metadata_DARIAH01.png" style="width: 100%;">
+
+<span style="display:block; font-size: 0.3em;">Font: [DARIAH-CH Training Series 2026–2027: Session 2](https://app.dasch.swiss/resource/0810/ZjmZv4DJSO-fVy9XQcw9tw)</span>
+
+----
+
 ### Tipus de metadades
 
 <img src="/media/HumDig03/metadata_DARIAH.png" style="width: 100%;">
 
-<span style="display:block; font-size: 0.3em;">Font: [DARIAH-CH Training Series 2026–2027: Session 2](https://app.dasch.swiss/resource/0810/ZjmZv4DJSO-fVy9XQcw9tw)
+<span style="display:block; font-size: 0.3em;">Font: [DARIAH-CH Training Series 2026–2027: Session 2](https://app.dasch.swiss/resource/0810/ZjmZv4DJSO-fVy9XQcw9tw)</span>
 
 ----
 
@@ -354,6 +362,20 @@ Els models de dades
 
 Volem capturar informació sobre exposicions d'art a partir del que podem extreure dels fulletons que es conserven en biblioteques, arxius i col·leccions.
 
-- Què ens interessa capturar?
+- Què ens interessa capturar? (cal definir-ho)
 - De quina tipologia serà cada atribut?
 - Quin format tindran els valors?
+  - Com evitarem confusions?
+  - Com indicarem *missing data*?
+  - Com recollirem dades incertes?
+
+----
+
+#### Bola extra: la interoperabilitat és important
+
+I pot ser
+- sintàctica: qualsevol màquina pot llegir (correctament) les dades?
+- estructural: els atributs del meu model són els mateixos que els d'altres models?
+- semàntica: els valors del meu model signifiquen el mateix que en altres models?
+
+És molt recomanable utilitzar catàlegs d'autoritats i vocabularis controlats: VIAF, GND, ORCID, GeoNames, AAT, Wikidata, etc.
