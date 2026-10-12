@@ -265,24 +265,9 @@ Per exemple: una pintura, o un llibre
 
 ### Tipus de metadades
 
-<div style="display:flex; justify-content:center; gap:2em; align-items:flex-start; margin-top:1em;">
-	<div style="width:50%; text-align:left;">
-		- Descriptives<br/>
-		- Estructurals<br/>
-		- Administratives
-	</div>
-	<div style="width:50%; text-align:center;">
-	<img src="https://www.lisedunetwork.com/wp-content/uploads/2025/10/Types-of-Metadata.png" style="width: 100%;">
-	<div style="font-size:0.25em; margin-top:0.5em;">
-			Font: 
-			<a href="https://www.lisedunetwork.com/the-main-types-of-metadata/"
-			target="_blank"
-			rel="noopener noreferrer">
-			lisedunetwork.edu
-            </a>
-		</div>
-	</div>
-</div>
+<img src="/media/HumDig03/metadata_DARIAH.png" style="width: 100%;">
+
+<span style="display:block; font-size: 0.3em;">Font: [DARIAH-CH Training Series 2026–2027: Session 2](https://app.dasch.swiss/resource/0810/ZjmZv4DJSO-fVy9XQcw9tw)
 
 ----
 
