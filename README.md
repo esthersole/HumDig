@@ -62,6 +62,7 @@ These slides are strongly based and inspired in other people's work, mainly (in 
 - Nicola Carboni
 - Johanna Drucker
 - Simon Gabay
+- Rita Gautschy
 - Adrien Jeanrenaud
 - Xingyu Long
 - Daniel Servos
