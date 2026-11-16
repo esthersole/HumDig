@@ -436,8 +436,13 @@ Realment és un document XML-TEI.
 #### I això per a què m'hauria d'importar?
 
 El text es converteix en una base de dades (jeràrquica)
+- s'hi poden fer consultes
+- es pot *manipular*
 
-Alguns exemples:
+----
+
+#### Alguns exemples:
+
 - [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/inicio.html)
 - [Vincent van Gogh: the letters](https://vangoghletters.org/)
 - Transcripció del Diari personal de Ricard Viñes
