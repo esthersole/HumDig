@@ -438,8 +438,8 @@ Realment és un document XML-TEI.
 El text es converteix en una base de dades (jeràrquica)
 
 Alguns exemples:
-- Desenrollando el cordel
-- Edició de l'obra de Robert Bernhard
+- [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/inicio.html)
+- [Vincent van Gogh: the letters](https://vangoghletters.org/)
 - Transcripció del Diari personal de Ricard Viñes
 
 ---
